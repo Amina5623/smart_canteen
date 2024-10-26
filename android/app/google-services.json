@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760005025038",
+    "project_id": "smart-canteen-1fdc3",
+    "storage_bucket": "smart-canteen-1fdc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760005025038:android:4c137ff6cee9946b454b5f",
+        "android_client_info": {
+          "package_name": "com.example.smart_canteen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzd4QsgsMq5zRp8j-4Pz6BimQ2I20pPlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
